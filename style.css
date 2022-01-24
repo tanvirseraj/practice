@@ -1,0 +1,41 @@
+h1{
+    color:red;
+    background-color:rgb(0, 255, 0);
+    
+
+}
+p{
+  color:green;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+}
+#well{
+    color:rgb(255, 105, 155);
+}
+.good{
+    color: lawngreen;
+}
+.correct{
+    color: rgb(238, 200, 144);
+    background-color: rgb(42, 165, 73);
+    font-size: 20px;
+}
+.one{
+    color: lightseagreen;
+    font-size: 30px;
+    background-color: red;
+}
+img{
+    height: 200px;
+    width:200px;
+}
+#two{
+    background-color: rgb(107, 189, 182);
+}
+.three{
+    border: 20px solid orange;
+    border-radius: 8px;
+    margin:5px;
+    padding:3px;
+}
